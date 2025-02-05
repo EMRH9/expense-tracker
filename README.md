@@ -1,17 +1,9 @@
-# coin
+# Coin
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# expense-tracker" 
+![Image](https://github.com/user-attachments/assets/515488af-a597-459d-ac88-fa775bf4976a)
+![Image](https://github.com/user-attachments/assets/d9c9f854-d07d-4414-9fe6-a15ff57c4f5b)
+![Image](https://github.com/user-attachments/assets/5635b115-ce84-4a43-a3bc-370d71df7f6e)
+![Image](https://github.com/user-attachments/assets/dfc0ee71-b04c-4c6f-a02f-7ab944afdcd1)
+![Image](https://github.com/user-attachments/assets/c52c7f63-e593-4596-8d61-4b3f8d43d8e0)
